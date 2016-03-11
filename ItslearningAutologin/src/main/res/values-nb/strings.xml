@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username_key">com.awa.itslearning.USERNAME</string>
+    <string name="password_key">com.awa.itslearning.PASSWORD</string>
+
+    <string name="app_name">itsLearning</string>
+    <string name="title_activity_main">itsLearning</string>
+    <string name="hint_username">Brukernavn</string>
+    <string name="hint_password">Passord</string>
+    <string name="button_login">LOGG INN</string>
+    <string name="toast_exit">Trykk igjen for å avslutte</string>
+    <string name="action_logout">Logg ut</string>
+    <string name="action_settings">Instillinger</string>
+    <string name="action_toggle_menu">Meny av/på</string>
+    <string name="action_toggle_javascript">Javascript av/på</string>
+    <string name="no_settings">Kommer snart!</string>
+    <string name="action_licenses">Lisenser</string>
+    <string name="title_licenses">Lisenser</string>
+    <string name="login_fail_message">Det oppsto en feil (ID %d). Sjekk brukernavn og passord, og kontakt oss hvis det fortsetter!</string>
+    <string name="login_fail_title">Innloggingsfeil</string>
+    <string name="login_fail_ok">OK</string>
+    <string name="allow_analytics_title">Tillate Analytics?</string>
+    <string name="allow_analytics_message">Vil du la appen sende in anonym data om deg til Google Analytics?</string>
+    <string name="allow_analytics_yes">Ja</string>
+    <string name="allow_analytics_no">Nei</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="on">På</string>
+    <string name="off">Av</string>
+
+    <string name="placeholder_select_organization">Velg skole...</string>
+    <string name="select_organization_title">Velg skole</string>
+
+    <string name="profile_section1_title">Karakterer</string>
+
+    <string-array name="planets_array">
+        <item>Dashboard</item>
+        <item>Min profil</item>
+        <item>Karakterer</item>
+        <item>Fravær</item>
+        <item>Orden</item>
+    </string-array>
+
+    <string name="title_activity_my_profile">Min profil</string>
+    <string name="no_comment">Ingen kommentar</string>
+
+    <string name="title_activity_feeds">FeedsActivity</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_section1">Bulletins</string>
+    <string name="title_section2">Tasks</string>
+    <string name="title_section3">Changes</string>
+    <string name="toast_refresh">Lastet inn på nytt!</string>
+    <string name="toast_thankyou">Takk for at du kjøpte plusversjonen!</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_web_view_tests">WebViewTestsActivity</string>
+
+
+</resources>

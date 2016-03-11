@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 210 210" enable-background="new 0 0 210 210" xml:space="preserve">
+<title>Layer 1</title>
+<g>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="-12,-15.3 -11,-15.3 -12,-14.3 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_3_" points="-12,-15.3 -11,-15.3 -12,-14.3 			"/>
+		</defs>
+		<defs>
+			<polygon id="SVGID_4_" points="-14,-17.3 -15,-17.3 -14,-18.3 			"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<clipPath id="SVGID_6_" clip-path="url(#SVGID_5_)">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_6_)" enable-background="new    ">
+			
+				<image overflow="visible" enable-background="new    " width="210" height="197" id="svg_8" xlink:href="../../../../Desktop/ItslearningAutologinProject/art/logo.png"  transform="matrix(0.9999 0 0 0.9999 -8012.3281 -7885.7832)">
+			</image>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<polygon id="SVGID_7_" points="-12,-15.3 -11,-15.3 -12,-14.3 			"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_9_" points="-12,-15.3 -11,-15.3 -12,-14.3 			"/>
+		</defs>
+		<defs>
+			<polygon id="SVGID_10_" points="-14,-17.3 -15,-17.3 -14,-18.3 			"/>
+		</defs>
+		<clipPath id="SVGID_11_">
+			<use xlink:href="#SVGID_9_"  overflow="visible"/>
+		</clipPath>
+		<clipPath id="SVGID_12_" clip-path="url(#SVGID_11_)">
+			<use xlink:href="#SVGID_10_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_12_)" enable-background="new    ">
+			
+				<image overflow="visible" enable-background="new    " width="210" height="197" id="svg_9" xlink:href="../../../../Desktop/ItslearningAutologinProject/art/logo.png"  transform="matrix(0.9999 0 0 0.9999 -8012.3281 -7885.7832)">
+			</image>
+		</g>
+	</g>
+</g>
+<ellipse id="svg_19" fill="#FFFFFF" cx="250" cy="134.7" rx="0" ry="0"/>
+<path id="svg_2" fill="#FF5A00" d="M12,40.5C19.7,21,39.9,7.7,60.7,7.5c47.1-0.1,94.1,0,141.2,0c0.2,46.1,0,92.3,0.1,138.4
+	c0.1,11.8-3.4,23.7-10.3,33.3c-10,13.4-26.2,22.6-43.2,22.2c-64.4,2.3-79.5,0.8-88.2,0c-8.7-0.8-31.4-7.9-41.2-20.3
+	c-6.7-9-11.2-20-11-31.3c0.1-25.3,0-50.6,0.1-75.9C8.2,62.6,6.8,50.8,12,40.5L12,40.5z"/>
+<g>
+	<g id="svg_14_2_">
+		<image overflow="visible" width="191" height="152" xlink:href="6A9C7D30.png"  transform="matrix(1 0 0 1 1 -6)">
+		</image>
+	</g>
+	<g id="svg_14_3_">
+		<image overflow="visible" width="191" height="151" xlink:href="6A9C7D31.png"  transform="matrix(1 0 0 1 18 65)">
+		</image>
+	</g>
+</g>
+<path fill="#231F20" d="M99,138.3L88.7,128l35.5-35.5c12.9,7,29.3,5.1,40.2-5.8c13.3-13.3,13.3-34.9,0-48.2
+	c-13.3-13.3-34.9-13.3-48.2,0c-10.9,10.9-12.7,27.3-5.8,40.2l-69.9,70c-3.8,3.8-3.8,10,0,13.8c3.8,3.8,10,3.8,13.8,0l10.3,10.3
+	c1.9,1.9,5,1.9,6.9,0l6.9-6.9c1.9-1.9,1.9-5,0-6.9L68,148.6l6.9-6.9l10.3,10.3c1.9,1.9,5,1.9,6.9,0l6.9-6.9
+	C100.9,143.3,100.9,140.2,99,138.3z M130,52.3c5.7-5.7,15-5.7,20.7,0c5.7,5.7,5.7,15,0,20.6c-5.7,5.7-15,5.7-20.7,0
+	C124.3,67.2,124.3,58,130,52.3z"/>
+</svg>

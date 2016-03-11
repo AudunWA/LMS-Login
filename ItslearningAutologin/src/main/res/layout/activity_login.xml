@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="#55c5f1">
+
+    <ImageView
+        android:id="@+id/imgIcon"
+        android:src="@drawable/logo512x512"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="48dp"
+        android:layout_marginTop="48dp"
+        android:layout_above="@+id/credentialsContainer"/>
+
+    <LinearLayout
+        android:id="@+id/credentialsContainer"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="48dp"
+        android:layout_centerVertical="true">
+
+        <EditText
+            android:id="@+id/txtUsername"
+            android:hint="@string/hint_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:inputType="textNoSuggestions"
+
+            android:minHeight="48dp"
+            android:background="@drawable/roundedbuttons"
+            android:textColor="#FFF"
+            android:textColorHint="#ffd6d6d6"
+            android:fontFamily="Roboto-Black"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_marginBottom="12dp"
+            >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/txtPassword"
+            android:hint="@string/hint_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:inputType="textPassword"
+
+            android:minHeight="48dp"
+            android:background="@drawable/roundedbuttons"
+            android:textColor="#FFF"
+            android:textColorHint="#ffd6d6d6"
+            android:fontFamily="Roboto-Black"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:background="@drawable/roundedbuttons"
+            android:textColor="#FFF"
+            android:fontFamily="Roboto-Black"
+            android:hint="@string/select_organization_title"
+            android:textColorHint="#ffd6d6d6"
+            android:onClick="onClick"
+            android:layout_weight="1"/>
+        </LinearLayout>
+
+
+    <Button
+        android:text="@string/button_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/button"
+        android:minHeight="96dp"
+        android:background="@drawable/roundedbuttons"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        android:textColor="#FFF"
+        android:onClick="onClick"
+        android:gravity="center"
+        android:fontFamily="Roboto-Black" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:visibility="invisible"
+        android:layout_centerInParent="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,74 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/action_logout"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:enabled="true"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        />
+
+    <!--<item
+        android:id="@+id/action_profile_dropdown"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:enabled="true"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_mail_dropdown"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:enabled="true"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:actionLayout="@layout/action_bar_notifitcation_icon"
+        app:showAsAction="always"
+        android:id="@+id/action_notification_dropdown"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:enabled="true"
+        android:orderInCategory="0"
+        />-->
+
+    <item
+        android:id="@+id/action_toggle_menu"
+        android:title="@string/action_toggle_menu"
+        android:icon="@drawable/ic_action_collapse"
+        android:enabled="true"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_toggle_javascript"
+        android:title="@string/action_toggle_javascript"
+        android:enabled="true"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_licenses"
+        android:title="@string/action_licenses"
+        android:enabled="true"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+</menu>

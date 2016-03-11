@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 250" enable-background="new 0 0 512 250" xml:space="preserve">
+<title>Layer 1</title>
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="-12,-15.3 -11,-15.3 -12,-14.3 		"/>
+	</defs>
+	<defs>
+		<polygon id="SVGID_2_" points="-14,-17.3 -15,-17.3 -14,-18.3 		"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)" enable-background="new    ">
+		
+			<image overflow="visible" width="210" height="197" id="svg_8" xlink:href="../../../../Desktop/ItslearningAutologinProject/art/logo.png"  transform="matrix(0.9999 0 0 0.9999 -8012.3281 -7885.7832)">
+		</image>
+	</g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_5_" points="-12,-15.3 -11,-15.3 -12,-14.3 		"/>
+	</defs>
+	<defs>
+		<polygon id="SVGID_6_" points="-14,-17.3 -15,-17.3 -14,-18.3 		"/>
+	</defs>
+	<clipPath id="SVGID_7_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<clipPath id="SVGID_8_" clip-path="url(#SVGID_7_)">
+		<use xlink:href="#SVGID_6_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)" enable-background="new    ">
+		
+			<image overflow="visible" width="210" height="197" id="svg_9" xlink:href="../../../../Desktop/ItslearningAutologinProject/art/logo.png"  transform="matrix(0.9999 0 0 0.9999 -8012.3281 -7885.7832)">
+		</image>
+	</g>
+</g>
+<ellipse id="svg_19" fill="#FFFFFF" cx="250" cy="134.7" rx="0" ry="0"/>
+<rect fill="#2EAAE8" width="512" height="250"/>
+<g>
+	<path id="svg_2" fill="#FF5A00" d="M292.3,63.9c7.3-18.4,26.4-31,46.1-31.2c44.5-0.1,89,0,133.6,0c0.2,43.7,0,87.3,0.1,131
+		c0.1,11.2-3.2,22.4-9.7,31.5c-9.5,12.7-24.8,21.4-40.9,21c-60.9,2.2-75.2,0.7-83.5,0c-8.2-0.7-29.7-7.5-39-19.2
+		c-6.3-8.5-10.6-18.9-10.4-29.6c0.1-23.9,0-47.9,0-71.8C288.7,84.9,287.4,73.8,292.3,63.9L292.3,63.9z"/>
+	<g>
+		<path id="svg_14_2_" fill="#FFFFFF" d="M316.5,128.8c0,0,0.1-9.7,0.6-12.6c1.8-11.6,6.7-22.3,14.1-31.4c0.2-0.2,0.4-0.5,0.6-0.7
+			c13.8-16.5,36.9-24.6,58-21.1c6.8,1.1,13.9,3.1,20.2,5.7c2.6-3.2,5.8-5.9,8.7-8.8c0.6-0.6,5.6-4.4,5.5-5.3c0,0,4,41.1,3.8,40.8
+			c-0.2-0.2-43.3,1.7-43.3,1.7l14.6-16.4c0,0-4.2-1.8-4.9-2.1c-6.8-3.4-17.2-2.6-24.4-1.3c-21,3.9-35.3,21.2-38.4,41.8
+			c-0.4,2.9-0.4,5.7-0.4,8.7"/>
+		<path id="svg_14_3_" fill="#FFFFFF" d="M444.1,121.6c0,0-0.1,9.3-0.6,12.2c-1.8,11.6-6.7,22.3-14.1,31.4c-0.2,0.2-0.4,0.5-0.6,0.7
+			c-13.8,16.5-36.9,24.6-58,21.1c-6.8-1.1-13.9-3.1-20.2-5.7c-2.6,3.2-5.8,5.9-8.7,8.8c-0.6,0.6-5.6,4.4-5.5,5.3
+			c0,0-4-41.1-3.8-40.8s43.3-1.7,43.3-1.7l-14.6,16.4c0,0,4.2,1.8,4.9,2.1c6.8,3.4,17.2,2.6,24.4,1.3c21-3.9,35.3-21.2,38.4-41.8
+			c0.4-2.9,0.4-5.7,0.4-8.7"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 39.9541 128.7977)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="45.8217">LMS Login</text>
+	</g>
+</g>
+</svg>

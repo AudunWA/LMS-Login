@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ItslearningAutologin/ItslearningAutologin.iml" filepath="$PROJECT_DIR$/ItslearningAutologin/ItslearningAutologin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ItslearningAutologinProject.iml" filepath="$PROJECT_DIR$/ItslearningAutologinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itslearning-login.iml" filepath="$PROJECT_DIR$/itslearning-login.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username_key">com.awa.itslearning.USERNAME</string>
+    <string name="password_key">com.awa.itslearning.PASSWORD</string>
+    <string name="app_name">itsLearning</string>
+    <string name="title_activity_main">itsLearning</string>
+    <string name="hint_username">Gebruikersnaam</string>
+    <string name="hint_password">Wachtwoord</string>
+    <string name="button_login">LOG IN</string>
+    <string name="toast_exit">Druk opnieuw om te stoppen</string>
+    <string name="action_logout">Log uit</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_toggle_menu">Menu aan/uit</string>
+    <string name="action_toggle_javascript">Javascript aan/uit</string>
+    <string name="no_settings">Binnenkort!</string>
+    <string name="action_licenses">Licenties</string>
+    <string name="title_licenses">Licenties</string>
+    <string name="login_fail_message">Er is een fout opgetreden (ID %d). Controleer je gegevens en neem contact met ons op als het blijft.</string>
+    <string name="login_fail_title">Login fout</string>
+    <string name="login_fail_ok">OK</string>
+    <string name="allow_analytics_title">Allow Analytics?</string>
+    <string name="allow_analytics_message">Wil je de app anonieme Google Analytics data laten verzenden?</string>
+    <string name="allow_analytics_yes">Ja</string>
+    <string name="allow_analytics_no">Nee</string>
+    <string name="title_activity_feeds">FeedsActiviteit</string>
+    <string name="title_section1">Nieuwsbrieven</string>
+    <string name="title_section2">Taken</string>
+    <string name="title_section3">Veranderingen</string>
+
+    <string name="drawer_open">Open navigatie balk</string>
+    <string name="drawer_close">Sluit navigatie balk</string>
+    <string name="on">Aan</string>
+    <string name="off">Uit</string>
+
+    <string-array name="planets_array">
+        <item>Dashboard</item>
+        <item>Profiel</item>
+        <item>Rangen</item>
+        <item>Komend</item>
+        <item>Gedrag</item>
+    </string-array>
+
+    <string name="placeholder_select_organization">Select school...</string>
+    <string name="select_organization_title">Select school</string>
+    <string name="profile_section1_title">Grades</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my_profile">My profile</string>
+    <string name="no_comment">No comment</string>
+    <string name="title_activity_web_view_tests">WebViewTestsActivity</string>
+    <string name="toast_refresh">Refreshed!</string>
+    <string name="toast_thankyou">Thank you for purchasing the plus version!</string>
+
+</resources>

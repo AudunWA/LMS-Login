@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MainTheme" parent="Theme.AppCompat.Light">
+        <!-- Here we setting appcompat’s actionBarStyle -->
+        <!-- <item name="actionBarStyle">@style/MyActionBarStyle</item> -->
+
+        <!-- ...and here we setting appcompat’s color theming attrs -->
+        <item name="colorPrimary">#33B5E5</item>
+        <item name="colorPrimaryDark">#0099CC</item>
+
+        <!-- The rest of your attributes -->
+    </style>
+</resources>
